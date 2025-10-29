@@ -10,7 +10,7 @@ Public repository for quantum gravity and quantum computing research papers.
 
 ### Important Clarifications:
 
-1. **Experimental Scope**: The experimental results (491+ tests) were conducted on quantum computing hardware (IBM Quantum, Rigetti Ankaa-3). The connection between quantum circuit behavior and Planck-scale physics is a **theoretical interpretation** proposed by this framework.
+1. **Experimental Scope**: The experimental results (576+ tests) were conducted on quantum computing hardware across three independent platforms (Rigetti Ankaa-3, IBM Torino, IBM Brisbane). The connection between quantum circuit behavior and Planck-scale physics is a **theoretical interpretation** proposed by this framework.
 
 2. **Reproducibility**: All quantum hardware experiments are independently verifiable. **Task/Job IDs can be requested for result confirmation** via quantum provider APIs. Contact information below.
 
@@ -23,7 +23,8 @@ Public repository for quantum gravity and quantum computing research papers.
 ## Papers
 
 ### Quantum Gravity Research
-- [Scientific Brief](papers/quantum_gravity/QUANTUM_GRAVITY_SCIENTIFIC_BRIEF_OUTLINE.md)
+- [Binary Hive Quantum Gravity - Scientific Brief](papers/quantum_gravity/INDEX.md)
+- [Published Version (Complete)](papers/quantum_gravity/Binary%20Hive%20Quantum%20Gravity%20Brief%20Published/)
 
 ### Pattern Discoveries
 - Coming soon
