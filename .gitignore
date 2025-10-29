@@ -1,35 +1,7 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# Virtual environments
-venv/
-env/
-ENV/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
 
-# Secrets (just in case)
-*.env
-.env.local
-secrets.json
+# Internal drafts and working documents
 *_INTERNAL.md
-
-# Build artifacts
-dist/
-build/
-*.egg-info/
-
-# Logs
-*.log
+*_DRAFT.md
