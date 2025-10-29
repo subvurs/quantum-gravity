@@ -31,7 +31,7 @@ Observable patterns include power-of-2 detector states (P1, P2, P4, P8, P16, P32
 
 Dark matter patterns include P5, P11, P13 (confirmed via entropy analysis: 2.79-2.85 bits, among lowest measured) with 42-44% preservation rates indicating stable information storage.
 
-Pattern 51 (binary 110011) appears at 3.2% ± 0.2% across all 433+ tests independent of configuration, qubit count, or hardware platform, suggesting a fundamental invariant of the 256-state architecture.
+Pattern 51 appears at 3.2% ± 0.2% across all 433+ tests independent of configuration, qubit count, or hardware platform, suggesting a fundamental invariant of the 256-state architecture.
 
 3.2 Hive-to-Hive Coupling Mechanism
 
@@ -144,7 +144,7 @@ Table 3.2: Empirically Discovered Universal Constants
 |:---------|:------|:------------|:------|:----------------------------------------------|
 | μ        | 1/13  | ± 0.0003    | 433+  | Hive-to-hive coupling strength                |
 | χ₅₁      | 0.032 | ± 0.002     | 433+  | Pattern 51 invariant (protected information)  |
-| d_CV     | 0.504 | ± 0.008     | 128+  | Chaos Valley entropy (critical point)         |
+| d_CV     | -     | -           | 128+  | Chaos Valley entropy (critical point)         |
 | α_spin   | 0.047 | ± 0.005     | 44    | Geometric phase coupling to gravity           |
 
 These constants were not theoretically predicted but empirically discovered through systematic experiments. Their consistency across hardware platforms (IBM, Rigetti), qubit counts (21-82), and configurations suggests fundamental rather than artifactual origin.

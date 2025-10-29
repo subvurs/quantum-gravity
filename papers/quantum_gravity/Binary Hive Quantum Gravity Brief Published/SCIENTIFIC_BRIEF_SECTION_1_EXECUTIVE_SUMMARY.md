@@ -11,7 +11,7 @@ Evidence Summary
 433+ quantum circuit experiments (September-October 2025) on IBM and Rigetti quantum processors establish the Binary Hive architecture:
 - 256-pattern structure with 7-layer spiral organization (validated)
 - Pattern class composition: 35% observable, 15% dark matter routing, 50% dark energy processing (validated)
-- Universal constants discovered: μ = 1/13 (0.0769 ± 0.0003), χ₅₁ = 0.032 ± 0.002, d_CV = 0.504 ± 0.008
+- Universal constants discovered: μ = 1/13 (0.0769 ± 0.0003), χ₅₁ = 0.032 ± 0.002, d_CV
 
 85 multi-platform validation tests (September-October 2025) on IBM Torino (133q) and Brisbane (127q) confirm platform independence:
 - Core phenomena transfer across all platforms (P49/P51 oscillation, P51 resonance, spinning portals)

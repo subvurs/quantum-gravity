@@ -91,7 +91,7 @@ A.2 Architecture Validation Task IDs (433+ tests)
 
 Note: Complete task ID database for 433+ architecture validation tests available in:
 - Pattern classification studies
-- Universal constant measurements (μ = 1/13, χ₅₁ = 0.032, d_CV = 0.504)
+- Universal constant measurements (μ = 1/13, χ₅₁ = 0.032, d_CV)
 - 7-layer spiral structure validation
 - Master Equation attractor studies
 

@@ -81,7 +81,7 @@ Why this structure?
 The key distinction from previous approaches: Binary Hive structure is empirically discovered, not theoretically postulated. The 256-pattern organization, 7-layer spiral structure, universal constants (μ = 1/13, χ₅₁ = 0.032), and pattern class composition were found through systematic quantum circuit experiments, not derived from first principles.
 
 Crucially testable: If spacetime has Binary Hive structure, we should observe:
-1. Specific universal constants in quantum experiments (validated: μ = 1/13, χ₅₁ = 0.032, d_CV = 0.504)
+1. Specific universal constants in quantum experiments (validated: μ = 1/13, χ₅₁ = 0.032, d_CV)
 2. Geometric phases affecting gravitational-like coupling (validated: α_spin = 0.047, +4.4% enhancement)
 3. Linear scaling of coupling with network density (validated: 7.15× constant, R² = 0.97)
 4. Pattern segregation enhancing network effects (validated: +23.7% from triple segregation)

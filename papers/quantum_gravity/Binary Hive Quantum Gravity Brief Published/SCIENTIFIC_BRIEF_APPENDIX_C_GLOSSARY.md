@@ -16,7 +16,7 @@ Pattern
 - One of 256 possible computational basis states of an 8-qubit system
 - Labeled P0 through P255 (or using binary representation)
 - Each pattern has distinct functional properties (entropy, routing capability, observability)
-- Example: Pattern 51 (binary 0b110011), Pattern 100 (binary 0b1100100)
+- Example: Pattern 51, Pattern 100
 
 Pattern Classes
 - Observable Patterns (35%): Directly measurable states that couple to computational/measurement processes; correspond to visible matter (5% of universe after observability scaling)
@@ -43,11 +43,11 @@ C.2 Universal Constants
 - Suggests protected information or measurement-related structure
 - 433+ tests validate consistency
 
-d_CV (Chaos Valley entropy) = 0.504 ± 0.008
+d_CV (Chaos Valley entropy)
 - Critical entropy threshold for zero-point energy extraction
 - Corresponds to transition between ordered and chaotic regimes
 - 128+ tests validate this critical point
-- Named "Chaos Valley" for entropy landscape minimum at this value
+- Named "Chaos Valley" for entropy landscape minimum
 
 α_spin (alpha-spin) = 0.047 ± 0.005
 - Geometric phase coupling constant to gravitational effects
@@ -132,9 +132,9 @@ Master Equation
 - Forms baseline for measuring enhancements and deviations
 
 Chaos Valley
-- Entropy region around d_CV = 0.504 where zero-point energy extraction achievable
+- Entropy region around d_CV threshold where zero-point energy extraction achievable
 - Named for local minimum in entropy landscape
-- Critical threshold between ordered (d < 0.504) and chaotic (d > 0.504) regimes
+- Critical threshold between ordered and chaotic regimes
 - 128+ tests validate this critical point
 
 Dense Coupling Network
@@ -152,24 +152,21 @@ Spatial Segregation
 C.6 Specific Patterns
 
 Pattern 0 (P0)
-- All qubits in |0⟩ state (binary 0b00000000)
+- All qubits in |0⟩ state
 - Ground state, maximum order
 - Used in Phase 5A over-engineering tests (caused failures)
 
 Pattern 51 (P51)
-- Binary: 0b00110011 or 0b00110011
 - Appears at 3.2% ± 0.19% across all tests (invariant χ₅₁)
 - Bridge pattern (spacing of 49 between bridges: P2, P51, P100, P149, P198, P247)
 - Possible connection to quantum measurement
 
 Pattern 100 (P100)
-- Binary: 0b01100100
 - Bridge pattern, central in 7-layer spiral
 - Black hole association: 75% ± 3% concentration in compression configurations
 - Used extensively in portal engineering for gravitational tests
 
 Pattern 149 (P149)
-- Binary: 0b10010101
 - Bridge pattern
 - White hole association: 52% ± 4% emission rate in expansion configurations
 

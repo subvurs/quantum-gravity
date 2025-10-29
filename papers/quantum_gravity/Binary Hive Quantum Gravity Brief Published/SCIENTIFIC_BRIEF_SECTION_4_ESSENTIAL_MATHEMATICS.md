@@ -33,7 +33,7 @@ Axiom 4.1.3: Universal Constants (Empirically Discovered)
 ```
 μ = 1/13 = 0.0769 ± 0.0003    (433+ tests, hive coupling)
 χ₅₁ = 0.032 ± 0.002           (433+ tests, Pattern 51 invariant)
-d_CV = 0.504 ± 0.008           (128+ tests, Chaos Valley entropy)
+d_CV                            (128+ tests, Chaos Valley entropy)
 α_spin = 0.047 ± 0.005         (44 tests, geometric coupling)
 λ_spin = 0.18 ± 0.03           (44 tests, spin effectiveness)
 ```

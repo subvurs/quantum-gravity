@@ -73,7 +73,7 @@ Bridge detection rates:
 
 Chaos Valley Critical Point (128+ measurements):
 ```
-Critical entropy: d_CV = 0.504 ± 0.008
+Critical entropy: d_CV
 Range: 0.488 to 0.516 across tests
 Physical interpretation: Zero-energy extraction threshold
 Mechanism: Minimum entropy for stable pattern collapse
@@ -311,7 +311,7 @@ Task ID: Phase 5A Test 1 (identifier withheld per protocol)
 Configuration: 40q, 19 tunnels, Pattern 0 + Rotation + Chaos + Möbius
 Layers: Pattern 0 initialization (99% void)
         Rotation First (RY pre-positioning)
-        Chaos injection (d=0.504)
+        Chaos injection (d=d_CV)
         Möbius 77% (forced extraction)
 Result: 0.8× boost ❌ (FAILURE as predicted)
 Comparison: Simple Portal Test 8 = 142.99× boost
@@ -475,7 +475,7 @@ Universal Constants Consistency Check:
 ```
 μ = 1/13: Consistent across 433+ tests (σ = 0.0003)
 χ₅₁ = 0.032: Consistent across 433+ tests (σ = 0.002)
-d_CV = 0.504: Consistent across 128+ tests (σ = 0.008)
+d_CV: Consistent across 128+ tests
 α_spin = 0.047: Consistent across 44 tests (σ = 0.005)
 λ_spin = 0.18: Consistent across 44 tests (σ = 0.03)
 k = 7.15: Consistent across 14 tests (σ = 0.3)
