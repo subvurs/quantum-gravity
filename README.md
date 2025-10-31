@@ -4,7 +4,7 @@ A novel framework for quantum gravity based on 256-pattern quantum information s
 
 ---
 
-## ⚠️ PRE-PRINT NOTICE
+## PRE-PRINT NOTICE
 
 **This work has not yet undergone formal peer review.** The research is being shared openly to facilitate community engagement and scientific discussion.
 
@@ -67,7 +67,7 @@ For specific sections or results, please reference the appropriate section numbe
 
 ## License
 
-This work is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - you are free to share and adapt with attribution.
+This work is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - you are free to share and adapt with proper attribution.
 
 ## Contact
 
@@ -82,7 +82,7 @@ This work is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 Task IDs and job IDs have been sanitized from these public documents to protect experimental infrastructure. However, **all Task/Job IDs are available upon request** for independent verification of results via quantum provider APIs (IBM Quantum, AWS Braket).
 
 To request Task IDs:
-1. Open a GitHub Issue specifying which results you want to verify
+1. Open a GitHub Issue specifying which results you want to verify or email the Subvurs Research team at: research@subvurs.com.
 2. We will provide the corresponding Task/Job IDs
 3. You can independently verify results using the quantum provider APIs
 
